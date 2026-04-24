@@ -4,10 +4,9 @@
 > Built with performance, scalability, and clean UI/UX in mind.
 
 ---
- 🌐 Live Demo (Optional)
+ 🌐 Live Demo 
 
-* 🔗 Frontend: https://your-frontend.vercel.app
-* 🔗 Backend API: https://your-backend.onrender.com
+    Coming soon 🚀
 
 ---
 
@@ -244,12 +243,6 @@ Contributions are welcome!
 * Use strong JWT secrets in production
 * Restrict CORS to your frontend domain
 * Store API keys securely
-
----
-
- 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
